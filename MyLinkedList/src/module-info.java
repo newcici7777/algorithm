@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cici
+ *
+ */
+module MyLinkedList {
+}
